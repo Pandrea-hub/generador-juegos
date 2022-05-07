@@ -127,17 +127,7 @@ footer a img{
     }
 
     .main-game--title{
-        text-align: center;
-    }
-    .main-game--title p{
-        font-size: 2rem;
+        text-align: start;
     }
     
-    .main-game--contain p{
-        font-size: 2rem;
-    }
-
-    footer{
-        height: 6%;
-    }
 }

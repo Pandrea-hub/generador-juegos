@@ -125,19 +125,4 @@ footer a img{
         margin: 5% 5% 2%;
         font-size: 5rem;
     }
-
-    .main-game--title{
-        text-align: center;
-    }
-    .main-game--title p{
-        font-size: 2rem;
-    }
-    
-    .main-game--contain p{
-        font-size: 2rem;
-    }
-
-    footer{
-        height: 6%;
-    }
 }

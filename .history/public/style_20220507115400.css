@@ -133,11 +133,7 @@ footer a img{
         font-size: 2rem;
     }
     
-    .main-game--contain p{
+    .main-game--contain{
         font-size: 2rem;
-    }
-
-    footer{
-        height: 6%;
     }
 }
