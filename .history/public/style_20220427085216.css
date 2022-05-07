@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: monospace;
+    width: 100vw;
+    height: 100vh;
+    color:white;
+    background-image:url('https://i.pinimg.com/originals/f7/0f/c7/f70fc759c5c13493ca9e21862b914dbd.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+h1{
+    margin: 10% 5% 2%;
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+a{
+    font-size: 2.5rem;
+}
+
+
+.main-game--head{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    margin: 0 3%;
+}
+
+.main-game--head img{
+    width: 100%;
+}
+
+.main-game--description{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main-game--contain{
+    text-align: center;
+}
+
+.main-game--description #btnLoad{
+    position: absolute;
+    width: 80px;
+    left: calc(50% - 12px);
+}

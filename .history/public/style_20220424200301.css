@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: monospace;
+    height: 100vh;
+    background-image:url('https://img3.goodfon.com/wallpaper/nbig/8/eb/grand-theft-auto-v-gta-5-five.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+a{
+    font-size: 2.5rem;
+}

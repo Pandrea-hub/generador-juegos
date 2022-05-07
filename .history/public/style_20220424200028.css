@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: monospace;
+    background-image:url('https://i.pinimg.com/474x/4a/12/52/4a125236d2d98b297f4b4f503f980818.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+a{
+    font-size: 2.5rem;
+}

@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: monospace;
+    height: 100vh;
+    color:white;
+    background-image:url('https://p4.wallpaperbetter.com/wallpaper/625/387/755/arcane-jinx-league-of-legends-league-of-legends-riot-games-4k-hd-wallpaper-preview.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+a{
+    font-size: 2.5rem;
+}
