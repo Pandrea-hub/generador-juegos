@@ -7,7 +7,7 @@
 html{
     font-size: 62.5%;
     font-family: monospace;
-    width: 100vw;
+    width: auto;
     height: 100vh;
     color:white;
     background-image:url('https://i.pinimg.com/originals/f7/0f/c7/f70fc759c5c13493ca9e21862b914dbd.jpg');
@@ -82,11 +82,11 @@ main{
     border: none;
     border-radius: 10px;
     box-shadow: 4px 3px 29px 1px rgba(255,79,255,1);
-    left: calc(50% - 60px);
+    left: calc(50% - 90px);
     margin-top: 30px;
     background-color: black;
     color:white;
-    padding: 1%;
+    padding: 1% 1%;
     cursor:pointer;
 }
 
