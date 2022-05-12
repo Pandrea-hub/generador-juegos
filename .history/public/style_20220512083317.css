@@ -8,7 +8,7 @@ html{
     font-size: 62.5%;
     font-family: monospace;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     color:white;
     background-image:url('https://i.pinimg.com/originals/f7/0f/c7/f70fc759c5c13493ca9e21862b914dbd.jpg');
     background-position: center;
@@ -78,7 +78,7 @@ main{
 
 .main-game--description #btnLoad{
     position: absolute;
-    width: 180px;
+    width: 120px;
     border: none;
     border-radius: 10px;
     box-shadow: 4px 3px 29px 1px rgba(255,79,255,1);
@@ -86,7 +86,7 @@ main{
     margin-top: 30px;
     background-color: black;
     color:white;
-    padding: 1%;
+    padding: 2%;
     cursor:pointer;
 }
 
@@ -102,7 +102,7 @@ footer{
     height: 8%;
     flex-direction: row;
     justify-content: center;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     background-color:rgba(255,79,255,1);
     min-width: 280px;

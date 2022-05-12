@@ -78,7 +78,7 @@ main{
 
 .main-game--description #btnLoad{
     position: absolute;
-    width: 180px;
+    width: 120px;
     border: none;
     border-radius: 10px;
     box-shadow: 4px 3px 29px 1px rgba(255,79,255,1);
@@ -86,8 +86,7 @@ main{
     margin-top: 30px;
     background-color: black;
     color:white;
-    padding: 1%;
-    cursor:pointer;
+    padding: 2%;
 }
 
 a{
@@ -102,7 +101,7 @@ footer{
     height: 8%;
     flex-direction: row;
     justify-content: center;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     background-color:rgba(255,79,255,1);
     min-width: 280px;
@@ -144,3 +143,8 @@ footer a img{
 }
 
 
+@media (min-width:800px){
+    #btnLoad{
+        width: 100px;
+    }
+}
